@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springcloud-project-api" />
+        <module name="springcloud-project-common" />
+        <module name="springcloud-project-config" />
+        <module name="springcloud-project-consumer-backup" />
+        <module name="springcloud-project-eureka6081" />
+        <module name="springcloud-project-eureka6082" />
+        <module name="springcloud-project-eureka6083" />
+        <module name="springcloud-project-mapper" />
+        <module name="springcloud-project-model" />
+        <module name="springcloud-project-provider-backup" />
+        <module name="springcloud-project-service" />
+        <module name="springcloud-project-zuul" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
